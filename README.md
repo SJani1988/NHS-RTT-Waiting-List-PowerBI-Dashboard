@@ -118,3 +118,5 @@ No patient-identifiable or confidential information has been used.
 I am a healthcare professional with experience in NHS systems and an interest in healthcare analytics and data-driven service improvement.
 
 **Skills:** Power BI | Excel | NHS Data | Healthcare Analytics | Data Visualisation
+
+This project is part of my growing healthcare data analytics portfolio as I continue to develop my skills in Power BI, data visualisation, and healthcare performance analysis.
