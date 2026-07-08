@@ -87,13 +87,10 @@ Analysis of the April 2026 RTT reporting period identified several important pat
 ## Dashboard Preview
 
 ### Overview Dashboard
+
 ![Dashboard Overview](Screenshots/Dashboard_Overview.png)
 
-### RTT Analysis
-![RTT Analysis](Screenshots/RTT_Analysis.png)
-
-### Speciality Analysis
-![Speciality Analysis](Screenshots/Speciality_Analysis.png)
+![Dashboard Overview 2](Screenshots/Dashboard_Overview_2.png)
 
 ---
 
